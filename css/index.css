@@ -1,0 +1,43 @@
+body{
+
+    /*background-image: url(/imgs/indexback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+#num1{
+   text-align: center;
+}
+#image1{
+    position: relative;
+    float: left   
+    
+}
+.header{
+    float: right;
+    border: 2px solid brown;
+    border-radius: 20px;
+    width: auto;
+    height: 60%;
+    background-color: rgb(71, 9, 9)
+}
+p{
+    color: black;
+    width: 400px;
+    margin-left: auto;
+}
+
+a:hover{
+    background-color: brown;
+    text-decoration: none;
+    font-size: large;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 30px;
+    color: white;
+    text-align: right;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: left;
+    
+}
